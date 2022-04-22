@@ -1,1 +1,1 @@
-# my-github
+# git-workshop
